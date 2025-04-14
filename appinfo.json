@@ -1,5 +1,6 @@
 {
-    "version": "1.1.0",
+  "eventcodes": "MXMEQ,MXCMQ2,MXCMP,FTCCMP1",  
+  "version": "1.2.0",
     "whitelist": [
     ],
     "banlist": [
